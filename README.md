@@ -94,7 +94,6 @@ If you don't see the expected output or g++ or gdb is not a recognized command, 
 In this tutorial, you will learn to configure Visual Studio Code on macOS to use the Clang/LLVM compiler and debugger.
 
 ### Prerequisites
-
 To successfully complete this tutorial, you must do the following:
 
    - Install <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code on macOS.</a>
